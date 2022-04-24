@@ -1,0 +1,15 @@
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.csproj.AssemblyReference.cache
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfoInputs.cache
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfo.cs
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\SmartGit\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.exe
+D:\SmartGit\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.deps.json
+D:\SmartGit\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.runtimeconfig.json
+D:\SmartGit\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.dll
+D:\SmartGit\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\Lesson2.pdb
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.dll
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\refint\Lesson2.dll
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.pdb
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\Lesson2.genruntimeconfig.cache
+D:\SmartGit\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\ref\Lesson2.dll
