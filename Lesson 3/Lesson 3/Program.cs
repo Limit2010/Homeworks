@@ -68,7 +68,7 @@
                             Console.WriteLine();
                             continue;
                         }
-                        else if (result2 < 9000000000000000000)
+                        else if (result2 < -9000000000000000000)
                         {
                             Console.WriteLine("The result is out of range [-9*10^18 to 9*10^18]");
                             Console.WriteLine();
