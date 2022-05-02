@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SmartGit\\Homeworks\\Lesson 3\\Lesson 3\\Lesson 3.csproj",
+      "projectUniqueName": "D:\\Обучение в Rubius\\HW Lesson 3 mod\\Lesson 3\\Lesson 3.csproj",
       "projectName": "Lesson 3",
-      "projectPath": "D:\\SmartGit\\Homeworks\\Lesson 3\\Lesson 3\\Lesson 3.csproj",
+      "projectPath": "D:\\Обучение в Rubius\\HW Lesson 3 mod\\Lesson 3\\Lesson 3.csproj",
       "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
-      "outputPath": "D:\\SmartGit\\Homeworks\\Lesson 3\\Lesson 3\\obj\\",
+      "outputPath": "D:\\Обучение в Rubius\\HW Lesson 3 mod\\Lesson 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config",

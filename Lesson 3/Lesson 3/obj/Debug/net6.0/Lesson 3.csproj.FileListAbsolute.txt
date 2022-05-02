@@ -13,3 +13,18 @@ D:\SmartGit\Homeworks\Lesson 3\Lesson 3\obj\Debug\net6.0\refint\Lesson 3.dll
 D:\SmartGit\Homeworks\Lesson 3\Lesson 3\obj\Debug\net6.0\Lesson 3.pdb
 D:\SmartGit\Homeworks\Lesson 3\Lesson 3\obj\Debug\net6.0\Lesson 3.genruntimeconfig.cache
 D:\SmartGit\Homeworks\Lesson 3\Lesson 3\obj\Debug\net6.0\ref\Lesson 3.dll
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.csproj.AssemblyReference.cache
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.AssemblyInfoInputs.cache
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.AssemblyInfo.cs
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.csproj.CoreCompileInputs.cache
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.dll
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\refint\Lesson 3.dll
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.pdb
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\bin\Debug\net6.0\Lesson 3.exe
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\bin\Debug\net6.0\Lesson 3.deps.json
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\bin\Debug\net6.0\Lesson 3.runtimeconfig.json
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\bin\Debug\net6.0\Lesson 3.dll
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\bin\Debug\net6.0\Lesson 3.pdb
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\Lesson 3.genruntimeconfig.cache
+D:\Обучение в Rubius\HW Lesson 3 mod\Lesson 3\obj\Debug\net6.0\ref\Lesson 3.dll
