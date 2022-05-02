@@ -144,11 +144,8 @@
                     Console.WriteLine("Результат: " + result2 + "\n");                    
                     break;
                 case '/':
-                    long result3 = Divide(value1, value2);
-                    if (value2 > 0)
-                    {
-                        Console.WriteLine("Результат: " + result3 + "\n");
-                    }                                       
+                    long result3 = Divide(value1, value2);                   
+                    Console.WriteLine("Результат: " + result3 + "\n");                                                         
                     break;
                 case '%':
                     long result4 = RemainderOfDivision(value1, value2);
