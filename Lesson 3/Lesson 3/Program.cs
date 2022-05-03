@@ -36,10 +36,15 @@
 
                 if (action == '-')
                 {
-                    int.TryParse(array[0], out var GdeMinus);
-                   // Console.WriteLine("Где минус: " + GdeMinus);
+                    int.TryParse(array[0], out var gdeMinus);
+                   // Console.WriteLine("Где минус: " + gdeMinus);
 
-                   if (GdeMinus == 0)
+                   if (array[0] == "0")
+                    {
+                        gdeMinus = -1;
+                    }
+
+                   if (gdeMinus == 0)
                     {
                         array[0] = ("-" + array[1]);
                         array[1] = array[2];
