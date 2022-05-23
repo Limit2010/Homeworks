@@ -1,0 +1,15 @@
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\bin\Debug\net6.0\3DFigure.exe
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\bin\Debug\net6.0\3DFigure.deps.json
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\bin\Debug\net6.0\3DFigure.runtimeconfig.json
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\bin\Debug\net6.0\3DFigure.dll
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\bin\Debug\net6.0\3DFigure.pdb
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.csproj.AssemblyReference.cache
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.AssemblyInfoInputs.cache
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.AssemblyInfo.cs
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.csproj.CoreCompileInputs.cache
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.dll
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\refint\3DFigure.dll
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.pdb
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\3DFigure.genruntimeconfig.cache
+D:\SmartGit\Homeworks\Lesson 6\3DFigure\obj\Debug\net6.0\ref\3DFigure.dll

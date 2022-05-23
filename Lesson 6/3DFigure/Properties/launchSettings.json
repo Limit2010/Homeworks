@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "3DFigure": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

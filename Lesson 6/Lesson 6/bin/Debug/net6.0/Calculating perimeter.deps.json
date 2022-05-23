@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculating perimeter/1.0.0": {
+        "runtime": {
+          "Calculating perimeter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculating perimeter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
