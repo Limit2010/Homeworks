@@ -1,0 +1,15 @@
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\bin\Debug\net6.0\PoiskStrok.exe
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\bin\Debug\net6.0\PoiskStrok.deps.json
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\bin\Debug\net6.0\PoiskStrok.runtimeconfig.json
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\bin\Debug\net6.0\PoiskStrok.dll
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\bin\Debug\net6.0\PoiskStrok.pdb
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.csproj.AssemblyReference.cache
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.AssemblyInfoInputs.cache
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.AssemblyInfo.cs
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.csproj.CoreCompileInputs.cache
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.dll
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\refint\PoiskStrok.dll
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.pdb
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\PoiskStrok.genruntimeconfig.cache
+D:\SmartGit\Homeworks\Lesson_9\PoiskStrok\obj\Debug\net6.0\ref\PoiskStrok.dll

@@ -1,0 +1,15 @@
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\bin\Debug\net6.0\Ping-Pong.exe
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\bin\Debug\net6.0\Ping-Pong.deps.json
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\bin\Debug\net6.0\Ping-Pong.runtimeconfig.json
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\bin\Debug\net6.0\Ping-Pong.dll
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\bin\Debug\net6.0\Ping-Pong.pdb
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.csproj.AssemblyReference.cache
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.AssemblyInfoInputs.cache
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.AssemblyInfo.cs
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.csproj.CoreCompileInputs.cache
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.dll
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\refint\Ping-Pong.dll
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.pdb
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\Ping-Pong.genruntimeconfig.cache
+D:\SmartGit\Homeworks\Lesson_9\Ping-Pong\obj\Debug\net6.0\ref\Ping-Pong.dll
